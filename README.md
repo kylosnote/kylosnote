@@ -1,5 +1,5 @@
 # About Me
-I Am `Klaus`
+I am `Klaus`
 
 `Backend Enginner` 💻 with over `4` years experience
 
