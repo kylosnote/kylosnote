@@ -1,4 +1,22 @@
-### Hi there 👋
+# About Me
+I Am `Klaus`
+
+`Backend Enginner` 💻 with over `4` years experience
+
+## Technology I Used
+- AWS (Lambda, State Machine, SNS, SQS, SES, Event Bridge, Open Search, Dynamodb)
+- Python (boto3 and etc)
+
+## Familiar with
+- PHP(Laravel)
+- Javascript
+- Python
+
+## Interest
+Curently looking part time or full time job that use Python as main programming language.
+
+preferably backend job.
+
 
 <!--
 **kylosnote/kylosnote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
